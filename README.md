@@ -1,5 +1,11 @@
 # ICJ Project Rig
 
+Static Apps Lesson
+
+By Alexandra Currie-Buckner
+
+Due November 7, 2020.
+
 This project rig was developed for the [Intro to Coding for Journalists](https://github.com/utdata/icj-class) class taught by Christian McDonald, Assistant Professor of Practice at the School of Journalism, Moody College of Communication, University of Texas at Austin.
 
 The development concepts used are similar to rigs used by news graphics teams in newsrooms like The Texas Tribune, Los Angeles Times and NPR.
