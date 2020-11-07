@@ -1,6 +1,4 @@
-# ICJ Project Rig
-
-Static Apps Lesson
+# Static Apps Lesson
 
 By Alexandra Currie-Buckner
 
